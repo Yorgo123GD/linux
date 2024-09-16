@@ -226,7 +226,7 @@ static const uint32_t pogo_keymap_proto3[] = {
 	KEY(6, 2, KEY_SPACE),
 	KEY(6, 3, KEY_2),
 	KEY(6, 4, KEY_COMMA),
-	KEY(6, 5, M),
+	KEY(6, 5, KEY_M),
 	KEY(6, 6, KEY_SEMICOLON),
 	KEY(6, 7, KEY_7),
 	KEY(6, 8, KEY_RESERVED),
